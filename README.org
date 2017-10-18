@@ -4,7 +4,7 @@
 
    This is program is copy from internet.(Forgot from where to download)
 
-   Fixed some ~compile~ error from the first *Compil*.
+   Fixed some ~compile~ error from the first *Compile*.
 
    Maybe improve the program when I have time.(Maybe)
 
